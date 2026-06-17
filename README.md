@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Symfony-111827?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Moodle-111827?style=for-the-badge&logo=moodle&logoColor=F98012" alt="Moodle" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
@@ -65,5 +66,5 @@
 ## GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMJ05&layout=compact&theme=tokyonight&hide_border=true" alt="JuanMJ05 top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMJ05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanMJ05 top languages" />
 </p>
