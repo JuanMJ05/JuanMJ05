@@ -65,5 +65,5 @@
 ## GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMJ05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanMJ05 top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanMJ05&show_icons=true&theme=tokyonight&hide_border=true" alt="JuanMJ05 stats" />
 </p>
