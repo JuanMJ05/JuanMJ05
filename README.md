@@ -63,8 +63,28 @@
 - Clear communication, documentation, and teamwork.
 - Fast learning and adaptability across tools, frameworks, and business domains.
 
-## GitHub Stats
+## Language breakdown
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMJ05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanMJ05 top languages" />
-</p>
+<!-- Manual breakdown. Update the percentages and bars when your stack changes. -->
+
+```text
+JavaScript   ████████████████████████   26.0 %
+TypeScript   ██████████████████░░░░░░   20.0 %
+PHP          █████████████████░░░░░░░   18.0 %
+Python       ███████████░░░░░░░░░░░░░   12.0 %
+HTML         ███████░░░░░░░░░░░░░░░░░    8.0 %
+CSS          ██████░░░░░░░░░░░░░░░░░░    7.0 %
+Java         █████░░░░░░░░░░░░░░░░░░░    5.0 %
+SQL          ████░░░░░░░░░░░░░░░░░░░░    4.0 %
+```
+
+<!--
+The dynamic card below is disabled on purpose:
+  1. github-readme-stats.vercel.app is currently returning HTTP 503 (DEPLOYMENT_PAUSED).
+  2. top-langs only counts public, non-fork repos owned by the user, and this account
+     currently has 1 public repo with no detected language, so the card would be empty.
+To enable it, deploy your own github-readme-stats instance on Vercel with a personal
+access token, then swap the host below for your own deployment URL.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMJ05&layout=compact&theme=tokyonight" alt="JuanMJ05 top languages" />
+-->
