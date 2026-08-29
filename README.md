@@ -65,26 +65,6 @@
 
 ## Language breakdown
 
-<!-- Manual breakdown. Update the percentages and bars when your stack changes. -->
+<img src="language-breakdown.svg" alt="TypeScript 87.25%, PHP 7.36%, Blade 1.80%, PLpgSQL 1.67%, Shell 0.72%, JavaScript 0.49%, CSS 0.38%, Dockerfile 0.32%" width="840" />
 
-```text
-JavaScript   ████████████████████████   26.0 %
-TypeScript   ██████████████████░░░░░░   20.0 %
-PHP          █████████████████░░░░░░░   18.0 %
-Python       ███████████░░░░░░░░░░░░░   12.0 %
-HTML         ███████░░░░░░░░░░░░░░░░░    8.0 %
-CSS          ██████░░░░░░░░░░░░░░░░░░    7.0 %
-Java         █████░░░░░░░░░░░░░░░░░░░    5.0 %
-SQL          ████░░░░░░░░░░░░░░░░░░░░    4.0 %
-```
-
-<!--
-The dynamic card below is disabled on purpose:
-  1. github-readme-stats.vercel.app is currently returning HTTP 503 (DEPLOYMENT_PAUSED).
-  2. top-langs only counts public, non-fork repos owned by the user, and this account
-     currently has 1 public repo with no detected language, so the card would be empty.
-To enable it, deploy your own github-readme-stats instance on Vercel with a personal
-access token, then swap the host below for your own deployment URL.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMJ05&layout=compact&theme=tokyonight" alt="JuanMJ05 top languages" />
--->
+<sub>Measured with GitHub Linguist across my repositories, including private ones. Byte-weighted, so larger codebases carry more weight. Last updated 2026-08-29.</sub>
