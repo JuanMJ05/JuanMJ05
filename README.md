@@ -19,8 +19,6 @@ Nearly all of it is in private repositories, so here is what I have worked on.
 | :-- | :-- |
 | **Shopify ↔ carriers/WMS integrations** <br> <sub>Jungle One</sub> | REST APIs, webhooks with HMAC validation, real-time event-driven sync. Node.js, PHP/Symfony. |
 | **Moodle plugins** <br> <sub>Virtual Campus, Universidad del Valle</sub> | PHP. |
-| **Classia** <br> <sub>Dev Monolith</sub> | Multi-tenant SaaS for schools. Next.js, NestJS, PostgreSQL. |
-| **My Velyra** <br> <sub>Dev Monolith</sub> | Multi-tenant SaaS for beauty and personal-service businesses. Laravel, Next.js, Stripe. |
 | **AI NPC Orchestrator** <br> <sub>Thesis</sub> | FastAPI, PostgreSQL/Supabase, Next.js, multi-provider LLM integration (OpenAI, Gemini, DeepSeek). Deployed on Railway and Vercel. |
 | **VoxBreach** <br> <sub>Personal project</sub> | Video game in C#. |
 
