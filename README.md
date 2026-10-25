@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Juan Jose Moreno Jaramillo — full-stack developer" width="880" />
+  <img src="assets/header.svg" alt="Juan Jose Moreno Jaramillo, full-stack developer" width="880" />
 </div>
 
 <p align="center">
@@ -7,9 +7,9 @@
   <a href="mailto:juanjosejaramillo203@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-Full Stack Developer from Colombia, working mainly with PHP/Symfony, Node.js and React.
-I build REST APIs and webhook integrations — Shopify, carriers and WMS systems — and Moodle plugins for a university Virtual Campus.
-Most of my work lives in private repositories, so the section below describes what is behind the private contribution activity.
+Full Stack Developer from Colombia. I work mainly with PHP/Symfony, Node.js and React.
+Most of my work is REST APIs and webhook integrations for Shopify, carriers and WMS systems, plus Moodle plugins for a university Virtual Campus.
+Nearly all of it is in private repositories, so here is what I have worked on.
 
 <br>
 
@@ -18,7 +18,9 @@ Most of my work lives in private repositories, so the section below describes wh
 | | |
 | :-- | :-- |
 | **Shopify ↔ carriers/WMS integrations** <br> <sub>Jungle One</sub> | REST APIs, webhooks with HMAC validation, real-time event-driven sync. Node.js, PHP/Symfony. |
-| **Moodle plugins** <br> <sub>Universidad del Valle — Virtual Campus</sub> | PHP. |
+| **Moodle plugins** <br> <sub>Virtual Campus, Universidad del Valle</sub> | PHP. |
+| **Classia** <br> <sub>Dev Monolith</sub> | Multi-tenant SaaS for schools. Next.js, NestJS, PostgreSQL. |
+| **My Velyra** <br> <sub>Dev Monolith</sub> | Multi-tenant SaaS for beauty and personal-service businesses. Laravel, Next.js, Stripe. |
 | **AI NPC Orchestrator** <br> <sub>Thesis</sub> | FastAPI, PostgreSQL/Supabase, Next.js, multi-provider LLM integration (OpenAI, Gemini, DeepSeek). Deployed on Railway and Vercel. |
 | **VoxBreach** <br> <sub>Personal project</sub> | Video game in C#. |
 
