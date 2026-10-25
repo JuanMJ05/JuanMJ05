@@ -83,7 +83,7 @@ Most of my work lives in private repositories, so the section below describes wh
 
 ## Academic account
 
-University coursework and personal experiments are public on my academic account, **[@Juan110-2](https://github.com/Juan110-2)** — including a portfolio deployed on Vercel at [portfolio-juan-moreno.vercel.app](https://portfolio-juan-moreno.vercel.app). The thesis code itself is not public.
+University coursework and personal experiments are public on my academic account, **[@Juan110-2](https://github.com/Juan110-2)**. The thesis code itself is not public.
 
 <br>
 
