@@ -62,9 +62,3 @@
 - Strong database handling and performance optimization.
 - Clear communication, documentation, and teamwork.
 - Fast learning and adaptability across tools, frameworks, and business domains.
-
-## Language breakdown
-
-<img src="language-breakdown.svg" alt="TypeScript 87.25%, PHP 7.36%, Blade 1.80%, PLpgSQL 1.67%, Shell 0.72%, JavaScript 0.49%, CSS 0.38%, Dockerfile 0.32%" width="840" />
-
-<sub>Measured with GitHub Linguist across my repositories, including private ones. Byte-weighted, so larger codebases carry more weight. Last updated 2026-08-29.</sub>
